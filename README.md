@@ -8,4 +8,4 @@ Welcome to this beautifully animated countryside scene that brings nature to lif
 ✅ Soft, fluffy clouds drifting peacefully across the sky ☁️☁️
 ✅ A graceful dove soaring with an olive branch, symbolizing peace 🕊️
 
-This animation is built using HTML, CSS, and JavaScript, creating a smooth and relaxing visual experience.
+This animation is built using HTML, CSS, creating a smooth and relaxing visual experience.
